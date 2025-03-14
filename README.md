@@ -1,0 +1,1 @@
+### A Python script that fetches the latest news from a News API, processes the headlines or articles, and automatically sends them to a specified email address. The script can be customized to filter news by category, source, or keywords, making it a convenient tool for staying updated on relevant topics.
